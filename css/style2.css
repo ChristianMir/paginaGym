@@ -1,0 +1,42 @@
+.main {
+  background-image: url(../img/cover2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 800px;
+}
+.seccion-text ul {
+  list-style-type: square;
+  color: #b99c70;
+}
+.seccion-text ul li p {
+  color: white;
+}
+span,
+h4 {
+  color: #b99c70;
+}
+.nav-item {
+  font-size: 20px;
+}
+.main-title {
+  margin-top: 10rem;
+  font-size: 100px;
+}
+.fab,
+.far {
+  color: #b99c70;
+  margin: 5px;
+  margin-bottom: 20px;
+}
+.container-hr {
+  background-image: url(../img/horario.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: none;
+  min-height: 1000px;
+}
+
+.table {
+  padding-top: 100px;
+}
